@@ -1,0 +1,227 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "apple",
+      "calories": 88,
+      "dietary_preferences": [
+        "vegan"
+      ],
+      "serving_size": 6,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 2,
+      "name": "chicken breast",
+      "calories": 125,
+      "dietary_preferences": [
+        "keto"
+      ],
+      "serving_size": 3,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 3,
+      "name": "whole milk",
+      "calories": 240,
+      "dietary_preferences": [
+        "keto"
+      ],
+      "serving_size": 8,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 4,
+      "name": "broccoli",
+      "calories": 30,
+      "dietary_preferences": [
+        "vegan",
+        "vegetarian",
+        "keto"
+      ],
+      "serving_size": 3,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 5,
+      "name": "almonds",
+      "calories": 164,
+      "dietary_preferences": [
+        "vegan",
+        "keto",
+        "vegetarian"
+      ],
+      "serving_size": 1,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 6,
+      "name": "lentils",
+      "calories": 230,
+      "dietary_preferences": [
+        "vegan",
+        "vegetarian",
+        "keto"
+      ],
+      "serving_size": 1,
+      "serving_size_units": "cup"
+    },
+    {
+      "id": 7,
+      "name": "oreos",
+      "calories": 230,
+      "dietary_preferences": [
+        "vegan",
+        "vegetarian"
+      ],
+      "serving_size": 1,
+      "serving_size_units": "cup"
+    },
+    {
+      "id": 8,
+      "name": "ribeye steak",
+      "calories": 500,
+      "dietary_preferences": [
+        "keto"
+      ],
+      "serving_size": 4,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 9,
+      "name": "salt and vinegar chips",
+      "calories": 90,
+      "dietary_preferences": [
+        "vegan",
+        "vegetarian"
+      ],
+      "serving_size": 4,
+      "serving_size_units": "oz"
+    },
+    {
+      "id": 10,
+      "name": "cheddar cheese",
+      "calories": 120,
+      "dietary_preferences": [
+        "keto"
+      ],
+      "serving_size": 4,
+      "serving_size_units": "oz"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Sam",
+      "lastname": "Davies",
+      "email": "sam@acme.com",
+      "log": [
+        {
+          "1601035667022": {
+            "food": "apple",
+            "servingSize": "2",
+            "calories": 176
+          }
+        },
+        {
+          "1601037001064": {
+            "food": "oreos",
+            "servingSize": "5",
+            "calories": 1150
+          }
+        },
+        {
+          "1601038019255": {
+            "food": "apple",
+            "servingSize": "1",
+            "calories": 88
+          }
+        },
+        {
+          "1601038035711": {
+            "food": "almonds",
+            "servingSize": "2",
+            "calories": 328
+          }
+        },
+        {
+          "1601038582593": {
+            "food": "chicken breast",
+            "servingSize": "20",
+            "calories": 2500
+          }
+        },
+        {
+          "1601038593649": {
+            "food": "apple",
+            "servingSize": "15",
+            "calories": 1320
+          }
+        },
+        {
+          "1601038607606": {
+            "food": "lentils",
+            "servingSize": "5",
+            "calories": 1150
+          }
+        },
+        {
+          "1601038629935": {
+            "food": "cheddar cheese",
+            "servingSize": "10",
+            "calories": 1200
+          }
+        },
+        {
+          "1601038644560": {
+            "food": "whole milk",
+            "servingSize": "10",
+            "calories": 2400
+          }
+        },
+        {
+          "1601038667489": {
+            "food": "ribeye steak",
+            "servingSize": "10",
+            "calories": 5000
+          }
+        },
+        {
+          "1601038675777": {
+            "food": "almonds",
+            "servingSize": "8",
+            "calories": 1312
+          }
+        },
+        {
+          "1601039744599": {
+            "food": "apple",
+            "servingSize": "5",
+            "calories": 440
+          }
+        },
+        {
+          "1601039760684": {
+            "food": "apple",
+            "servingSize": "dfs",
+            "calories": null
+          }
+        },
+        {
+          "1601039786766": {
+            "food": "apple",
+            "servingSize": "sdfg",
+            "calories": null
+          }
+        },
+        {
+          "1601039973564": {
+            "food": "apple",
+            "servingSize": "sd",
+            "calories": null
+          }
+        }
+      ]
+    }
+  ]
+}
